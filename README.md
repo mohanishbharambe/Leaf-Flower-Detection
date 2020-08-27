@@ -45,4 +45,6 @@ For local feature vectors as well as combination of global and local feature vec
 Figure 4. Global Features to quantify a flower image
 This is made for plant leaf identification, the flowers can also be detectedn using this method.
 And the folder structure should be as following
+
+
 ![structure](https://user-images.githubusercontent.com/55147567/91411929-aaea2000-e866-11ea-9d2e-49a5fdde5feb.JPG)

@@ -16,6 +16,7 @@ When deciding about the features that could quantify plants and flowers, we coul
 
 But this approach is less likely to produce good results, if we choose only one feature vector, as these species have many attributes in common like sunflower will be similar to daffodil in terms of color and so on. So, we need to quantify the image by combining different feature descriptors so that it describes the image more effectively.
 
+![](https://gogul.dev/images/software/plants-species/feature_extraction.jpg)
 
 Figure 3. Feature Extraction
 Global Feature Descriptors

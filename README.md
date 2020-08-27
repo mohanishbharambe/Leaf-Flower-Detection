@@ -39,5 +39,8 @@ There are two popular ways to combine these feature vectors.
 For global feature vectors, we just concatenate each feature vector to form a single global feature vector. This is the approach we will be using in this tutorial.
 For local feature vectors as well as combination of global and local feature vectors, we need something called as Bag of Visual Words (BOVW). This approach is not discussed in this tutorial, but there are lots of resources to learn this technique. Normally, it uses Vocabulory builder, K-Means clustering, Linear SVM, and Td-Idf vectorization.
 
+
+![](https://gogul.dev/images/software/plants-species/global_features.jpg)
+
 Figure 4. Global Features to quantify a flower image
 This is made for plant leaf identification, the flowers can also be detectedn using this method.
